@@ -9,10 +9,12 @@
 
 ## usage
 1) create reducer 
+<code>
 const reducer = function(state, action) {
 	// handle state according the action
 	const nextState = {};
 	// ...
 	return nextState;
 }
+</code>
 
