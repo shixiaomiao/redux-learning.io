@@ -20,8 +20,8 @@
 2) create store
 	
 3) store.subscribe(listener)
-4)
-	
+4) store.dispatch(action) 
+
 
 
 
