@@ -9,12 +9,19 @@
 
 ## usage
 1) create reducer 
-<code>
-const reducer = function(state, action) {
-	// handle state according the action
-	const nextState = {};
-	// ...
-	return nextState;
-}
-</code>
+
+	const reducer = function(state, action) {
+		// handle state according the action
+		const nextState = {};
+		// ...
+		return nextState;
+	}
+	
+2) create store
+	
+3) store.subscribe(listener)
+4)
+	
+
+
 
